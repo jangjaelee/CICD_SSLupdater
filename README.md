@@ -1,2 +1,2 @@
 # CICD_SSLupdater
-CI/CD SSL updater with AWX
+CI/CD SSL updater with GitLab & AWX
